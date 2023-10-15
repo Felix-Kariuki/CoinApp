@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EA131ADA-95CC-4A83-B04F-7B022CC4B6B1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6861D237-BD4A-43A0-A01C-C7F598EB2CEA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoinApp/view/AllCoinsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6861D237-BD4A-43A0-A01C-C7F598EB2CEA - cd7b9284c8110c57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.Group&lt;SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0&gt;&gt; in CoinApp.AllCoinsView.body.getter : some"
+                  moduleName = "CoinApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/felix/IOS/Learning/CoinApp/CoinApp/view/AllCoinsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "6861D237-BD4A-43A0-A01C-C7F598EB2CEA - 50dd59dff0e40b85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.Group&lt;SwiftUI._ConditionalContent&lt;SwiftUI._ConditionalContent&lt;SwiftUI.ProgressView&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0&gt;&gt; in CoinApp.AllCoinsView.body.getter : some"
+                  moduleName = "CoinApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/felix/IOS/Learning/CoinApp/CoinApp/view/AllCoinsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "936">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
