@@ -1,7 +1,7 @@
 
 
 # CoinApp
-A coin app  displaying a list of different coins and currencies built using Swift and Swift UI. It leverages the [CoinApi](https://docs.coinapi.io/). Visit the [CoinApi](https://docs.coinapi.io/) to get your ``Api_key``
+A coin app displaying a list of different coins and currencies built using Swift and Swift UI. It leverages the [CoinApi](https://docs.coinapi.io/). Visit the [CoinApi](https://docs.coinapi.io/) to get your ``Api_key``
 
 
 ## Requirements
@@ -14,6 +14,10 @@ A coin app  displaying a list of different coins and currencies built using Swif
 |:-------------------------:|:-------------------------:|
 |<img src="./screenshots/one.png" width="300"> | <img src="./screenshots/two.png" width="300"> 
 
+## TechStack 🛠️
+- [Swift](https://developer.apple.com/swift/) - Swift is a powerful and intuitive programming language for all Apple platforms. It’s easy to get started using Swift, with a concise yet expressive syntax and modern features you’ll love. Swift code is safe by design and produces software that runs lightning-fast.
+- [SwiftUiI](https://developer.apple.com/documentation/swiftui/) - SwiftUI provides views, controls, and layout structures for declaring your app’s user interface. The framework provides event handlers for delivering taps, gestures, and other types of input to your app, and tools to manage the flow of data from your app’s models down to the views and controls that users see and interact with
+- [URLSession](https://developer.apple.com/documentation/foundation/urlsession) - An object that coordinates a group of related, network data transfer tasks.
 
 
 
